@@ -64,4 +64,5 @@ loop from "after the mistake" to "at every step." (Shown in the demo UI as
    "system error", proposes a refund over the $50 policy cap, and skips customer confirmation.
 4. **Approve the correction** (human-in-the-loop).
 5. The resolver gets back on track, confirms with the customer, and resolves the ticket within policy.
-- Demo video: _add link here_
+- Demo video: [DEMO](https://drive.google.com/drive/folders/1OwsCZhfBlXqttmuMZYyf3DQh0Pwon62T?usp=sharing
+)
